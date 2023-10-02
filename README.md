@@ -1,11 +1,12 @@
 # ENHANCING SPEECH AUTO-DISENTANGLEMENT FOR VOICE CONVERSION THROUGH MUTUAL INFORMATION AND JOINT TEXT-GUIDED CONSISTENT LEARNING
 
 <!-- ### [arXiv](https://arxiv.org/abs/2208.08757) | [Demo](https://im1eon.github.io/IS2022-SRDVC/) | [Presentation video](https://www.youtube.com/watch?v=I-fUXv6oYz8) -->
-### [Demo](https://github.com/LLAMVC/EAD-VC/) 
+
+<!-- ### [Demo](https://github.com/LLAMVC/EAD-VC/)  -->
 
 
 <div align=center>
-<img src="EAD-VC.png" width="500px">
+<img src="EAD-VC.png" width="1000px">
 </div>
 
 ## code
