@@ -2,7 +2,7 @@
 
 <!-- ### [arXiv](https://arxiv.org/abs/2208.08757) | [Demo](https://im1eon.github.io/IS2022-SRDVC/) | [Presentation video](https://www.youtube.com/watch?v=I-fUXv6oYz8) -->
 
-### [Demo](https://llamvc.github.io/EADVC/) 
+### [Demo Page](https://llamvc.github.io/EADVC/) 
 
 
 <div align=center>
